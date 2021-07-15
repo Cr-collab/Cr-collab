@@ -15,7 +15,8 @@
   
 ------
 ### Social networks
-<img src="https://img.icons8.com/nolan/64/linkedin.png"/> </a>
+![icons8-linkedin-64](https://user-images.githubusercontent.com/65018066/125864783-9bafe15b-ea43-4561-b17f-4bb6d60ecc03.png)
+
 
 
 

@@ -1,11 +1,10 @@
-- 👋 Oi, Eu sou Cristiano
-- 👀 Atualmente interresado em Javascript ...
-- 🌱 Meu foco é me Especializar e Javscript e futuramente aprender ReactJS ...
-- 💞️ Atualmente venho evoluindo muito para depois pensar em colaborar mais ...
-- 📫 Tenho Buscado me Tornar um mestre Javascript ...
+# Hi I,m Cristiano :wave: :computer:
 
-<!---
-Cr-collab/Cr-collab  Eu não tenho medo do homem que praticou 10.000 chutes diferentes, mas sim do homem que praticou o mesmo chute 10.000 vezes.
+### Aboute me 
 
-Bruce Lee
---->
+* :computer: Studying to be a developer
+* :mortar_board: Graduated in Systems Analysis and Development
+*  :earth_americas: I live in Brazil specifically in São Paulo
+* 👨‍🎓 I am a student at Bootcamp Ignite on the trail of React.js
+* 🕔🕚 My passion is for the frontend, I like to see things come to life my total focus on React.JS, Typescript, Next.JS and Styled-Styled-Components...
+* 💪 My main interest today is exercising , and I like anime and movies

@@ -12,6 +12,11 @@
 ⚔️ Skills 
 
   <img src="https://img.icons8.com/nolan/64/html-5.png"/>    <img src="https://img.icons8.com/dusk/64/000000/css3.png"/> <img src="https://img.icons8.com/nolan/64/javascript.png"/>  <img src="https://img.icons8.com/nolan/64/react-native.png"/> 
+  
+------
+### Social networks
+
+<img src="https://img.icons8.com/nolan/64/linkedin.png" href="https://www.linkedin.com/in/cristiano-azevedo-0508b0158/"/>
 
 
 

@@ -15,8 +15,8 @@
   
 ------
 ### Social networks
+<a https://www.linkedin.com/in/cristiano-azevedo-0508b0158/ > <img src="https://img.icons8.com/nolan/64/linkedin.png"/> </a>
 
-<img src="https://img.icons8.com/nolan/64/linkedin.png" href="https://www.linkedin.com/in/cristiano-azevedo-0508b0158/"/>
 
 
 

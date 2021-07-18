@@ -3,7 +3,7 @@
 <p align="left"> 
   <h1> Oi, eu sou Cristiano  :wave: :computer:</h1>
 
-### Aboute me 
+### Sobre mim
 
 * :computer: Estudando desenvolvimento frontend REACT-JS
 * :mortar_board: Formado em Análise e Desenvolvimento de Sistemas 

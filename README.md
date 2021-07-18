@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <h1> Hi I,m Cristiano :wave: :computer:</h1>
+  <h1> Oi, eu sou Cristiano  :wave: :computer:</h1>
 
 ### Aboute me 
 
-* :computer: Studying to be a developer
-* :mortar_board: Graduated in Systems Analysis and Development
-*  :earth_americas: I live in Brazil specifically in São Paulo
-* 👨‍🎓 I am a student at Bootcamp Ignite on the trail of React.js
-* 🕔🕚 My passion is for the frontend, I like to see things come to life my total focus on React.JS, Typescript, Next.JS and Styled-Styled-Components...
-* 💪 My main interest today is exercising , and I like anime and movies
+* :computer: Estudando desenvolvimento frontend REACT-JS
+* :mortar_board: Formado em Análise e Desenvolvimento de Sistemas 
+*  :earth_americas: Eu moro no Brasil especificamente em Guarulhos-SP
+* 👨‍🎓 Eu atualmente estou cursando o Bootcamp Ignite na Trilha de React JS
+* 🕔🕚 Minha paixão é pelo frontend, gosto de ver as coisas ganhando vida, meu foco total em React.JS, Typescript, Next.JS e Styled-Styled-Components ...
+* 💪 Nos Momentos de lazer gosto  de treinar, assistir filmes e anime.
 ----
 </p>
 
@@ -32,7 +32,7 @@
  
 
 <p align="left">
-  💌 Social networks: ⤵️
+  💌 Redes Rede Social: ⤵️
 </p>
 
 

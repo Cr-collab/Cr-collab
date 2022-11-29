@@ -46,7 +46,7 @@
 <h2> GitHub Stats <h2/>
   
   [![card](https://github-readme-stats.vercel.app/api?username=Cr-collab&theme=highcontrast)](https://github.com/Cr-collab/)
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr-collab&langs_count=8&theme=highcontrast)](https://github.com/Cr-collab/)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr-collab&langs_count=10&theme=highcontrast)](https://github.com/Cr-collab/)
 
   
 
